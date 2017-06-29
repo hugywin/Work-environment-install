@@ -1,6 +1,6 @@
 # Work-environment-install
 
-* 安装itrem2 [地址](http://www.iterm2.com/)
+* 安装iterm2 [地址](http://www.iterm2.com/)
 
 * 安装homebrew /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 (homebrew 会检测 安装Xcode)
